@@ -74,8 +74,14 @@ My goal is to build scalable digital solutions and leverage data to drive smarte
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: [Vipul Agarwal](https://www.linkedin.com/in/vipul-agarwal-2b54a2402)
-- 📧 Email: [vipulagarwal0504@gmail.com](mailto:vipulagarwal0504@gmail.com)
+<p align="left">
+  <a href="https://www.linkedin.com/in/vipul-agarwal-2b54a2402">
+    <img src="https://img.shields.io/badge/LinkedIn-Vipul_Agarwal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:vipulagarwal0504@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
