@@ -31,28 +31,16 @@ My goal is to build scalable digital solutions and leverage data to drive smarte
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
-- Python
-- JavaScript
+## 🛠️ Tech Stack
 
-### 🌐 Frontend
-- HTML, CSS
-- React.js
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-
-### 🗄️ Database
-- MongoDB
-- MySQL
-
-### 📊 Data Tools
-- Pandas
-- NumPy
-- Power BI / Excel
-
----
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
 ## 🚀 Projects (Coming Soon)
 
@@ -82,6 +70,14 @@ My goal is to build scalable digital solutions and leverage data to drive smarte
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
